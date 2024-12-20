@@ -1,17 +1,9 @@
-//Bewertung: 7/10
+//7/10 Punkten
 //
-//Positives:
-//
-//    Gute Benutzeroberfläche und klare Fehlerbehandlung.
-//    Spielfluss funktioniert.
-//
-//Verbesserungen:
-//
-//    Das Spiel sollte auf einen Gewinner prüfen.
-//    Die Spielrunden sollten korrekt auf 9 begrenzt werden.
-//    Es fehlt eine Möglichkeit, das Spiel zu beenden, wenn jemand gewonnen hat.
-//
-
+//    1: Gute Benutzeroberfläche und klare Fehlerbehandlung.
+//    1: Spielfluss funktioniert, aber keine Gewinnerüberprüfung.
+//    -1: Zu wenige Runden (5 anstatt 9 Züge).
+//    -1: Fehlende Möglichkeit, das Spiel zu beenden, wenn jemand gewonnen hat.
 
 package FirstStepsRecoding;
 
