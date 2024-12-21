@@ -1,4 +1,4 @@
-package easy_tasks;
+package FirstStepsRecoding;
 
 public class Palindrome {
     public static void main(String[] args) {
