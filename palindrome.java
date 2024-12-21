@@ -1,7 +1,7 @@
-//Rating: 9/10 points
-//    -0.5: Loops should iterate from 100 to 999 for efficiency.
-//    -0.5: Minor readability issues (e.g., rename prod to product, use {} for clarity).
+//Bewertung: 9/10 Punkten
 
+//    -0.5: Schleifen sollten von 100 bis 999 laufen, um effizienter zu sein.
+//   -0.5: Kleinere Lesbarkeitsprobleme (z. B. prod in product umbenennen, {} für Klarheit nutzen).
 
 package FirstStepsRecoding;
 
