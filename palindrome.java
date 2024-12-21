@@ -1,3 +1,8 @@
+//Rating: 9/10 points
+//    -0.5: Loops should iterate from 100 to 999 for efficiency.
+//    -0.5: Minor readability issues (e.g., rename prod to product, use {} for clarity).
+
+
 package FirstStepsRecoding;
 
 public class Palindrome {
