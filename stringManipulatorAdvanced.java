@@ -11,7 +11,7 @@ package FirstStepsRecoding;
 
 import java.util.Scanner;
 
-public class StringManipulatorAdvanced {
+public class stringManipulatorAdvanced {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
