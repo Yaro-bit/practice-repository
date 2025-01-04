@@ -42,28 +42,3 @@ Implementiere folgende Klassen:
     Implementiere folgende Methoden:
         Konvertiere die Titel aller Bücher in Großbuchstaben und gib sie aus.
         Formatiere die Namen der Mitglieder so, dass nur der erste Buchstabe groß ist (z. B. "anna" → "Anna").
-
-5. 2D-Array für Sitzplatzplanung
-
-    Simuliere ein Sitzplatzsystem für die Lesesäle:
-        Ein 2D-Array String[][] seating repräsentiert 3 Säle mit je 5 Sitzplätzen.
-        Ordne Mitglieder nach ihren Mitgliedsnummern Sitzplätzen zu und zeige die Sitzplatzbelegung an.
-        Unbesetzte Plätze sollten als "Frei" markiert werden.
-
-6. Mathematische Berechnungen
-
-    Berechne:
-        Die durchschnittliche Anzahl ausgeliehener Bücher pro Mitglied.
-        Die Gesamtanzahl aller Leihvorgänge.
-        Den Prozentsatz der verfügbaren Bücher.
-
-7. Interaktive Eingaben
-
-    Nutze den Scanner, um:
-        Eine Kategorie einzugeben und Bücher nach dieser Kategorie zu filtern.
-        Einen Mitgliedsnamen einzugeben und die Leihvorgänge dieses Mitglieds zu filtern.
-        Eine neue Buchausleihe hinzuzufügen (indem du das Array loans aktualisierst).
-
-Zusatzaufgabe (Optional):
-
-    Schreibe eine Methode markBookAsReturned(String bookTitle), die ein Buch als "verfügbar" markiert und den entsprechenden Leihvorgang entfernt.

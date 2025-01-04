@@ -2,11 +2,11 @@ package SummaryBasics;
 
 public class StringManipulator {
 
-	private static String toUpperCaseTitle(String title) {
+	static String toUpperCaseTitle(String title) {
 		String titleUpperCase = title.toUpperCase(); // Satz in einzelne Wörter aufteilen
 		return titleUpperCase;
 	}
-	private static String toUpperCaseName(String name) {
+	static String toUpperCaseName(String name) {
 		
 		char nameAsCharArray[] = name.toCharArray();
 		for (int i = 0; i < nameAsCharArray.length; i++)
