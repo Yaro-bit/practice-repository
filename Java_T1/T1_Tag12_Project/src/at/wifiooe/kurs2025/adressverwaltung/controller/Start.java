@@ -43,4 +43,9 @@ public class Start { // MainController
 	public void LoadThis() {
 		fassade.LoadThis();		
 	}
+
+	public void doExit() {
+	
+		
+	}
 }

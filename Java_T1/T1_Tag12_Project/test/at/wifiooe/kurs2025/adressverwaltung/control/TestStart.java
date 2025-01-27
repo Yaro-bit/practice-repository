@@ -16,7 +16,7 @@ public class TestStart {
 		
 
 		 
-		PersonAdresse pers = new PersonAdresse("A", "B", "C", 0, 0, "D", "E");
+		PersonAdresse pers = new PersonAdresse("", "", "", 0, 0, "", "");
 		main.addAdress(pers); 
 		  
 		list = main.getAlleAdressen();
